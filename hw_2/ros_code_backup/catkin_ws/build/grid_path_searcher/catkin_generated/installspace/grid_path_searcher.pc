@@ -1,0 +1,8 @@
+prefix=/home/parallels/lecture/motionplanning/catkin_ws/install
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/parallels/lecture/motionplanning/catkin_ws/install/include
+Libs: -L/home/parallels/lecture/motionplanning/catkin_ws/install/lib 
+Requires: 

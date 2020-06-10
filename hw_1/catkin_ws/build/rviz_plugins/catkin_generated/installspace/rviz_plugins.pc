@@ -1,0 +1,8 @@
+prefix=/media/psf/Home/lecture/shenlan/motion planning /hw_1/catkin_ws/install
+
+Name: rviz_plugins
+Description: Description of rviz_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L/media/psf/Home/lecture/shenlan/motion planning /hw_1/catkin_ws/install/lib 
+Requires: 

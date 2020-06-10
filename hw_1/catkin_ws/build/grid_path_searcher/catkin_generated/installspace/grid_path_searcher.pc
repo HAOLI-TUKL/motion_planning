@@ -1,0 +1,8 @@
+prefix=/media/psf/Home/lecture/shenlan/motion planning /hw_1/catkin_ws/install
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/media/psf/Home/lecture/shenlan/motion planning /hw_1/catkin_ws/install/include
+Libs: -L/media/psf/Home/lecture/shenlan/motion planning /hw_1/catkin_ws/install/lib 
+Requires: 

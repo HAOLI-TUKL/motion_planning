@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/parallels/lecture/motionplanning/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/lecture/motionplanning/catkin_ws/install
