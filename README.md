@@ -1,4 +1,3 @@
-# path_planning
 # Motion-Planning-for-for-Mobile-Robotse-Robotics
 
 **Project 2	MATLAB	C++**
