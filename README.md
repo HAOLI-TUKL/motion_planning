@@ -40,6 +40,6 @@ RTDP algorithm
 MPC	 	
 
 
-![Project List](https://github.com/KailinTong/Motion-Planning-for-Mobile-Robots/blob/master/projectList.png)
+![Project List](https://github.com/HAOLI-TUKL/motion_planning/blob/master/images/projectList.png)
 
 
